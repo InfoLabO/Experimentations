@@ -4,4 +4,6 @@ Du code pour utiliser un vieux joystick avec connectique [Game Port](http://pino
 
 Pour le test des joysticks sous Linux, on peut utiliser `jstest` (dans les paquets Ubuntu/Debian).
 
-![Montage](joy1.jpg)
+![Photo du montage](joy1.jpg)
+
+![Photo du montage](joy2.jpg)
