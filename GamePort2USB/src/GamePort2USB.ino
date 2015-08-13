@@ -35,8 +35,6 @@
 
 #define ANALOW 512
 #define ANALIGH 1023
-#define DELTANA (ANALOW+(ANALIGH-ANALOW)/2)
-#define MOVETHRESH 30
 
 // Joystick pin 2
 #define BUTTON1 2
