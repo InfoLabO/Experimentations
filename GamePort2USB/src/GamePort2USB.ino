@@ -1,11 +1,11 @@
-
 /*
   Game port -> USB, Arduino Leonardo sketch
+  par BLG le 13/08/15
+  
   Game port pinout reference : 
   http://pinouts.ru/Inputs/GameportPC_pinout.shtml
   
-  Les boutons relient directement le +5V a leur pin (2/7), il
-  faut ajouter une resistance de 
+  Les boutons relient directement le +5V a leur pin (2/7).
   Les axes sont des resistances variables de 100k dont une
   extremite est au +5V et le point milieu est relie a la pin (3/6).
   L'autre extremite n'est pas connectee.
@@ -30,7 +30,6 @@
   des joysticks :
   http://www.imaginaryindustries.com/blog/?p=80
   (a mettre dans /usr/share/arduino/hardware/arduino/cores/arduino/)
-
 */
 
 #define ANALOW 512
