@@ -1,14 +1,14 @@
 int button = 3;
-int electroAimant = 13;
+int electromagnet = 13;
 
 void setup() {
-  pinMode(electroAimant, OUTPUT);
+  pinMode(electromagnet, OUTPUT);
   pinMode(button, INPUT_PULLUP);
 }
 
 void loop() {
   while(digitalRead(button) == HIGH) {};
-  digitalWrite(electroAimant, HIGH);
+  digitalWrite(electromagnet, HIGH);
   delay(3000);
-  digitalWrite(electroAimant, LOW);
+  digitalWrite(electromagnet, LOW);
 }
