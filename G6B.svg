@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.0//EN" "http://www.w3.org/TR/2001/PR-SVG-20010719/DTD/svg10.dtd">
+<svg width="20cm" height="10cm" viewBox="0 0 400 200" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <g>
+    <rect style="fill: #ffffff" x="2" y="2" width="396" height="196"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 4; stroke: #000000" x="2" y="2" width="396" height="196"/>
+  </g>
+  <g>
+    <rect style="fill: #ffffff" x="12" y="12" width="16" height="8"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 4; stroke: #000000" x="12" y="12" width="16" height="8"/>
+  </g>
+  <g>
+    <rect style="fill: #ffffff" x="12" y="180" width="16" height="8"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 4; stroke: #000000" x="12" y="180" width="16" height="8"/>
+  </g>
+  <g>
+    <rect style="fill: #ffffff" x="372" y="180" width="16" height="8"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 4; stroke: #000000" x="372" y="180" width="16" height="8"/>
+  </g>
+  <g>
+    <rect style="fill: #ffffff" x="212" y="180" width="16" height="8"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 4; stroke: #000000" x="212" y="180" width="16" height="8"/>
+  </g>
+  <text font-size="16.9333" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:700" x="200" y="100">
+    <tspan x="200" y="100">G6B</tspan>
+  </text>
+  <path style="fill: none; fill-opacity:0; stroke-width: 4; stroke: #000000" d="M 20.111 68 L 20.111,80 C 30.111,78.5 40.111,77 40.111,84.5 C 40.111,92 20.111,93.5 20.111,89 C 20.111,84.5 40.111,86 40.111,93.5 C 40.111,101 20.111,102.5 20.111,98 C 20.111,93.5 40.111,95 40.111,102.5 C 40.111,110 20.111,111.5 20.111,107 C 20.111,102.5 40.111,104 40.111,111.5 C 40.111,119 25.111,117.5 20.111,116 L 20.111,128"/>
+  <line style="fill: none; fill-opacity:0; stroke-width: 4; stroke: #000000" x1="20.111" y1="68" x2="20.0128" y2="22.0049"/>
+  <line style="fill: none; fill-opacity:0; stroke-width: 4; stroke: #000000" x1="20.111" y1="128" x2="20" y2="180"/>
+  <polyline style="fill: none; fill-opacity:0; stroke-width: 4; stroke: #000000" points="220,180 220,152 272,152 272,152 "/>
+  <line style="fill: none; fill-opacity:0; stroke-width: 4; stroke: #000000" x1="272" y1="152" x2="304" y2="136"/>
+  <polyline style="fill: none; fill-opacity:0; stroke-width: 4; stroke: #000000" points="380,180 380,152 304,152 "/>
+</svg>
